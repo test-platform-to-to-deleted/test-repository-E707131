@@ -1,0 +1,6 @@
+#+TITLE: Index
+#+AUTHOR: Vlead
+
+* test-repository
+** [[./introduction-E707131/introduction-E707131.org][Introduction]]
+** [[./objective-E707131/objective-E707131.org][Objective]]
